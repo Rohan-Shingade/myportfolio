@@ -117,7 +117,7 @@ section .title::after {
   background: crimson;
   color: #fff;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 500;
   padding: 8px 16px;
   margin-top: 100px;
   margin-left: 470px;
@@ -126,7 +126,9 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.skills .skills-content a:hover {
+.projects .projects-content a:hover {
+  font-size: 15px;
+  font-weight: 500;
   color: crimson;
   background: none;
 }

@@ -558,8 +558,7 @@ section .title::after {
   margin-bottom: 10px;
 }
 
-
-.projects .projects-content .right a {
+.projects .projects-content a {
   display: inline-block;
   background: crimson;
   color: #fff;
@@ -571,10 +570,9 @@ section .title::after {
   border: 2px solid crimson;
   transition: all 0.3s ease;
 }
-
-.projects .projects-content .right a:hover {
-  color: crimson;
+.projects .projects-content a:hover {
   background: none;
+  color: crimson;
 }
 
 
@@ -632,10 +630,12 @@ section .title::after {
 
 .contact .contact-content .info .head {
   font-weight: 500;
+  
 }
 
 .contact .contact-content .info  .sub-title {
   color: #333;
+  
 }
 
 .contact .contact-content .row a{
