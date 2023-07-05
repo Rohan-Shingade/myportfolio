@@ -853,7 +853,7 @@ footer span a:hover {
   .projects .projects-content .left img{
     height: 250px;
     width: 350px;
-    margin: auto;
+    margin-left: 150px;
   }
 }
 
